@@ -1,2 +1,0 @@
-# agrarianist
-Agrarianist.com website
